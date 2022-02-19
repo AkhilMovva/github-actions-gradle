@@ -9,7 +9,6 @@ public class AppTest {
         App myApp = new App();
 
         String result = myApp.getStatus();
-
         assertEquals("OK", result);
     }
 
