@@ -1,3 +1,4 @@
+https://img.shields.io/github/checks-status/akhilmovva/github-actions-gradle/master
 ##### build the project
 
     ./gradlew build
