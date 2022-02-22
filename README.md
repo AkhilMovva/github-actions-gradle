@@ -1,4 +1,4 @@
-![GitHub branch checks state](https://img.shields.io/github/checks-status/akhilmovva/github-actions-gradle/master)
+![GitHub branch checks state](https://img.shields.io/github/checks-status/akhilmovva/github-actions-gradle/master)![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/akhilmovva/github-actions-gradle)
 ##### build the project
 
     ./gradlew build
